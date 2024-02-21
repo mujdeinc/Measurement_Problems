@@ -170,7 +170,7 @@ Bu projede satın alma değişkenlerinin ortalama değerleri arasında
 anlamlı bir fark olup olmadığını gösteren H0 ve H1 hipotezleri tanımlanmıştır.
 Daha sonra dağılımın normal olup olmadığını belirlemek için sırasıyla Shapiro ve Levene yöntemleri kullanılarak
 normal ve varyans homojenlik dağılımı belirlendi.
-Dağılımın normal olduğu anlaşılarak satın alma_kontrol ve satın alma_test ortalama değerleri arasında
+Dağılımın normal olduğu anlaşılarak kontrol_grubu ve test_grubu ortalama değerleri arasında
 fark olup olmadığını analiz etmek için parametrik hipotez testi uygulandı.
 
 # Adım 2: Elde ettiğiniz test sonuçlarına göre müşteriye tavsiyede bulununuz.
