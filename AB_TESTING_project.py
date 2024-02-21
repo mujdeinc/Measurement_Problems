@@ -172,7 +172,6 @@ Daha sonra dağılımın normal olup olmadığını belirlemek için sırasıyla
 normal ve varyans homojenlik dağılımı belirlendi.
 Dağılımın normal olduğu anlaşılarak satın alma_kontrol ve satın alma_test ortalama değerleri arasında
 fark olup olmadığını analiz etmek için parametrik hipotez testi uygulandı.
-Buna göre satınalma_kontrol ve satın alma_test ortalama değerleri arasında fark olmadığı tespit edildi. (p>0,05)
 
 # Adım 2: Elde ettiğiniz test sonuçlarına göre müşteriye tavsiyede bulununuz.
 
@@ -180,9 +179,3 @@ Average Bidding'in Maximum Bidding'den istatistiksel olarak anlamlı bir şekild
 daha fazla dönüşüm getirdiğini doğrulayacak yeterli kanıt bulunamadığı için
 maximum bidding stratejisini devam etme önerisinde bulunulabilir.
 
-
-Başarı kriteri olarak belirlenen satın alma değişkenindeki değişimin istatistiksel olarak
-anlamlı olmadığı ortaya çıktı. Bu nedenle elimizdeki verilerin ortalama değerleri
-arasındaki farkı gösterecek kadar yeterli olmadığını ve daha fazla veriye ihtiyacımız olduğunu düşünüyorum.
-Daha fazla veriye sahip olduğumuzda AB testini tekrar yapabiliriz.
-Ancak mevcut haliyle satınalma_testinin bilimsel anlamda firma yararına bir avantajının olmadığı belirlendi.
